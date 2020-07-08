@@ -11,6 +11,7 @@ target/
 .springBeans
 .sts4-cache
 
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 .idea
 *.iws
@@ -24,6 +25,16 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
+=======
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+HELP.md
+mvnw
+mvnw.cmd
+.mvn/wrapper/.*
+>>>>>>> f115b955c1d278fc0ba94985a768a196aa8d1c32
 
 ### VS Code ###
 .vscode/
